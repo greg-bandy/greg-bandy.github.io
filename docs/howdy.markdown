@@ -1,5 +1,5 @@
 layout: page
 title: Howdy
-permalink: /about/
+permalink: /howdy/
 
 Howdy.
