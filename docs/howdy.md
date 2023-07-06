@@ -1,5 +1,5 @@
 layout: page
 title: Howdy
-permalink: https://greg-bandy.github.io/docshowdy.md
+permalink: https://greg-bandy.github.io/docs/howdy.md
 
 Howdy.
